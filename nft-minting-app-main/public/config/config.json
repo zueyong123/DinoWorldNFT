@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49f7A31aD5ad7314b37F6623Cc511C160E71C274",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x49f7a31ad5ad7314b37f6623cc511c160e71c274",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Dino World NFT",
+  "SYMBOL": "DWNFT",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/dinoworld-v2",
+  "SHOW_BACKGROUND": true
+}
